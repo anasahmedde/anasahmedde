@@ -18,15 +18,6 @@ Seeking **graduate studies in the United States** to pursue advanced research in
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasahmedde&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasahmedde&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**  
@@ -90,7 +81,7 @@ Seeking **graduate studies in the United States** to pursue advanced research in
 
 ### 🎓 Education
 
-- **B.E. Electronics Engineering** — NED University of Engineering & Technology (GPA: 3.62/4.0)
+- **B.E. Electronics Engineering** — NED University of Engineering & Technology (CGPA: 3.616/4.0)
 - **H.S.C Pre-Engineering** — Govt. Degree Boys & Girls College SRE-III (78.91%)
 - **S.S.C Computer Science** — S.M. Public Academy (83.29%, Grade A-One)
 

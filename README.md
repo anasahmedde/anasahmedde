@@ -14,7 +14,7 @@
 
 ### 💡 Current Focus
 
-Seeking **graduate studies in the United States** to pursue advanced research in intelligent systems, machine learning, and robotics—contributing to innovative solutions in AI-driven automation.
+Seeking **graduate studies in the United States** to pursue advanced research in intelligent systems, machine learning, and robotics contributing to innovative solutions in AI-driven automation.
 
 ---
 

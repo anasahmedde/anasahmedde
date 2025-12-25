@@ -1,6 +1,6 @@
 # Hi there, I'm Anas Ahmed 👋
 
-**Software Engineer (ML/Cloud)** with 5+ years of industry experience, specializing in building production ML systems—from autonomous robots using ROS and SLAM to real-time object detection deployed in live retail environments.
+**Software Engineer (ML/Cloud)** with 5+ years of industry experience, specializing in building production ML systems from autonomous robots using ROS and SLAM to real-time object detection deployed in live retail environments.
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### 💡 Current Focus
 
-Seeking **graduate studies in the United States** to pursue advanced research in intelligent systems, machine learning, and robotics—contributing to innovative solutions in AI-driven automation.
+Seeking **graduate studies in the United States** to pursue advanced research in intelligent systems, machine learning, and robotics contributing to innovative solutions in AI-driven automation.
 
 ---
 
